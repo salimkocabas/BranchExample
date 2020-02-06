@@ -1,5 +1,5 @@
 
-This is a file on Branch ABC 
+This is a file on ABC branch
 
 
 
@@ -22,4 +22,4 @@ This is a file on Branch ABC
 
 
 
-I ADDDE THIS LINE JUST AFTER JUMP INO BRANC ABC
+I ADDDE THIS LINE JUST AFTER JUMP INO master ABC from abc branch
